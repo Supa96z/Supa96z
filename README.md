@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![My 42 Cursus Progress](https://github.com/Supa96z/42Tracker/blob/main/progress.svg)
 <!--
 **Supa96z/Supa96z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
