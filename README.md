@@ -1,6 +1,8 @@
 <div align="center">
+  
 ## 42 Cursus Status
 ![42 Cursus Progress](https://github.com/Supa96z/42Tracker/blob/main/progress.svg?raw=true)
+  
 ## Languages
 <p> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="vertical-align:middle; margin:4px;">
